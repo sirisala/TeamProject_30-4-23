@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/testng.xml">
+        <classes/>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/Profile_Test.java">
+        <classes>
+            <class name="org.example.Profile_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/LoginButton_test.java">
+        <classes>
+            <class name="org.example.LoginButton_test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/InvalidCredentials_Test.java">
+        <classes>
+            <class name="org.example.InvalidCredentials_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/Clear_Test.java">
+        <classes>
+            <class name="org.example.Clear_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/ValidCredentails_Test.java">
+        <classes>
+            <class name="org.example.ValidCredentails_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/Products_Test.java">
+        <classes>
+            <class name="org.example.Products_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/ProductIteams_Test.java">
+        <classes>
+            <class name="org.example.ProductIteams_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/GoToShop_Test.java">
+        <classes>
+            <class name="org.example.GoToShop_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/gpPRo/gp/src/test/java/org/example/AddToCart_Test.java">
+        <classes>
+            <class name="org.example.AddToCart_Test">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
